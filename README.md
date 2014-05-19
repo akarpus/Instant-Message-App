@@ -51,3 +51,5 @@ You may use two different machines on the same network. User1 would connect on o
 2. Enter "```ifconfig```" in the terminal window.
 
 3. Locate your respective IP address and pass this address as a command line argument in Step 5 of Configuration.
+
+---
