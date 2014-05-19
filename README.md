@@ -5,7 +5,7 @@ A program I wrote in C that helped me reinforce the concepts of signals and sock
 
 ###Program Overview
 ---
-Program allows for two users to connect to one and other and communicate through the terminal windows. The design of the code involved making a single InstantMessage.c file as oppossed to two separate User1.c and User2.c files for quicker compilation and debugging. 
+Allows for two users to connect to one and other and communicate through the terminal windows. The design of the code involved making a single InstantMessage.c file as oppossed to two separate User1.c and User2.c files for quicker compilation and debugging. 
 
 ###Program Simulation
 ---
