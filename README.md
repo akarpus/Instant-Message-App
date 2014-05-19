@@ -9,10 +9,9 @@ Program allows for two users to connect to one and other and communicate through
 
 ###Program Simulation
 ---
-This program can be executed and ran in TWO ways: 
 
 #####1. One Machine:
-You may use a single machine and have two terminals open to represent the instant messaging conversation between two users
+You may use a single machine and have two terminals open to represent the instant messaging conversation between two users.
 
 
 #####2. Two Machines:
