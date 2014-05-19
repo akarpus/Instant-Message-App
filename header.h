@@ -1,10 +1,9 @@
 #define SERVER_PORT 60002
 #define MAX_STR 100
 
-/* Signal Handler Global Variable */
 static volatile int oracle_Signal = 0;
 
-/* Player Functions */
+// User Functions
 void user2(char*);
 void user1();
 
