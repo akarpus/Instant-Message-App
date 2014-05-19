@@ -1,7 +1,7 @@
 instant-message
 ===============
 
-A program that allows two users to instant message each other over TCP/IP
+I created this program to reinforce the concepts of Signals and Sockets that were taught in my Systems Programming class to hopefully gain a better understanding of how these system calls work. that allows two users to instant message each other over TCP/IP
 
 ###Configuration
 ---
@@ -36,3 +36,7 @@ A program that allows two users to instant message each other over TCP/IP
 2. Enter "```ifconfig```" in the terminal window.
 
 3. Locate your respective IP address and pass this address as a command line argument in Step 5 of Configuration.
+
+###Session Simulation
+---
+
