@@ -1,22 +1,21 @@
 instant-message
 ===============
 
-A program I wrote in C that I hoped would reinforce the concepts of signals and sockets that were taught in my Systems Programming class. The goal was to gain a better understanding of how these concepts actually worked. 
+A program I wrote in C that helped me reinforce the concepts of signals and sockets taught in my Systems Programming class.
 
 ###Program Overview
 ---
-The program allows for two users to connect to one and other and communicate through the terminal windows. The design of the code involved making a single InstantMessage.c file as oppossed to two separate user1.c and user2.c files for faster compilation and debugging. 
+Program allows for two users to connect to one and other and communicate through the terminal windows. The design of the code involved making a single InstantMessage.c file as oppossed to two separate User1.c and User2.c files for quicker compilation and debugging. 
 
 ###Program Simulation
 ---
-This program can be executed and ran in two ways: 
+This program can be executed and ran in TWO ways: 
 
-#####One Machine:
+#####1. One Machine:
 You may use a single machine and have two terminals open to represent the instant messaging conversation between two users
 
-OR
 
-#####Two Machines:
+#####2. Two Machines:
 You may use two different machines on the same network. User1 would connect on one machine and wait for a connection through the form of an IP address from User2 on the other machine. 
 
 
