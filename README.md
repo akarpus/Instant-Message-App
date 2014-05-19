@@ -1,11 +1,11 @@
 instant-message
 ===============
 
-A program that allows two users to instant message each other over TCP/IP
+#####A program that allows two users to instant message each other over TCP/IP
 
 ###Configuration
 ---
-In order to execute this program:
+#####In order to execute this program:
 
 1) Clone the repository
 
@@ -19,14 +19,14 @@ In order to execute this program:
 
 ###IP Address Locator
 ---
-On a Windows 8 Machine: 
+#####On a Windows 8 Machine: 
 
 1) Hold  "```Windows Key + R```" to open a command prompt. 
 2) Enter "```cmd```" in the terminal window.
 3) Enter "```ipconfig```" in the terminal window.
 4) Locate your respective IP address and pass this address as a command line argument in Step 5 of Configuration.
 
-On a Linux Machine:
+#####On a Linux Machine:
 
 1) Hold "```CTRL + SHIFT + T```" to open a terminal window.
 2) Enter "```ifconfig```" in the terminal window.
