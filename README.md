@@ -38,11 +38,11 @@ You may use two different machines on the same network. User1 would connect on o
 
 1. Hold  "```Windows Key + R```" to open a command prompt. 
 
-2. Enter "```cmd```" in the terminal window.
+2. Enter "```cmd```" in the prompt.
 
 3. Enter "```ipconfig```" in the terminal window.
 
-4. Locate your respective IP address and pass this address as a command line argument in Step 5 of Configuration.
+4. Locate your IP address and pass this address as a command line argument in Step 5 of Configuration.
 
 #####On a Linux Machine:
 
@@ -50,10 +50,8 @@ You may use two different machines on the same network. User1 would connect on o
 
 2. Enter "```ifconfig```" in the terminal window.
 
-3. Locate your respective IP address and pass this address as a command line argument in Step 5 of Configuration.
+3. Locate your IP address and pass this address as a command line argument in Step 5 of Configuration.
 
 ###Feedback
 ---
 If you have any questions/comments or another form of feedback, feel free to email me at anton@karpus.net
-
----
