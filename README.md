@@ -52,4 +52,8 @@ You may use two different machines on the same network. User1 would connect on o
 
 3. Locate your respective IP address and pass this address as a command line argument in Step 5 of Configuration.
 
+###Feedback
+---
+If you have any questions/comments or another form of feedback, feel free to email me at anton@karpus.net
+
 ---
