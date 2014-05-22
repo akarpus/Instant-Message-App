@@ -1,7 +1,7 @@
 instant-message
 ===============
 
-A program I wrote in C that helped me reinforce the concepts of signals and sockets taught in my Systems Programming class.
+A program I wrote in C that helped me reinforce the concepts of signals and sockets.
 
 ###Program Overview
 ---
